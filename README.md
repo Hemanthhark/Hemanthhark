@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hemanathan M</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanthhark&label=Profile%20views&color=0e75b6&style=flat" alt="hemanthhark" /> </p>
 
 - 🔭 I’m currently working on **Full Stack Java**
 
-- 🌱 I’m currently learning **Java, React,Springboot**
+- 🌱 I’m currently learning **Java, React, Springboot**
 
-- 💬 Ask me about **Java,Sql,Full Stack**
+- 💬 Ask me about **Java, Sql, Full Stack**
 
 - 📫 How to reach me **mheman786@gmail.com**
 
