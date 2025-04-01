@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Full Stack Java**
 
-- 🌱 I’m currently learning **Java, React, Springboot**
+- 🌱 I’m currently learning **Java, React, Spring Boot**
 
 - 💬 Ask me about **Java, Sql, Full Stack**
 
